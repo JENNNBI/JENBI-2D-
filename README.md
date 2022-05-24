@@ -12,6 +12,6 @@ Basic mechanics and animation  taught me a lot here. Jump, left, right even atta
 ![JENBI GamePlay Fire1](https://user-images.githubusercontent.com/87286877/170032648-6e9faee3-da37-4fac-b50e-1eb560520151.png)
 
 
-As soon as i finished the basics i wanted to change my game looking, i tried to do better then grey background. I did some research and found beautiful parallax effect i watched many video. Even it looks easy, for the short time i couldn't implement. I did leave this for another time. If you want to tell me something about it feel free to contect me!
+As soon as i finished the basics i wanted to change my game view, i tried to do better then grey background. I did some research and found beautiful parallax effect i watched many video. Even it looks easy, for the short time i couldn't implement. I did leave this for another time. If you want to tell me something about it feel free to contect me!
 
 ![JENBI GamePlay parallax effect](https://user-images.githubusercontent.com/87286877/170032696-4febdc6b-2d70-4de3-b682-821ad61ed569.png)
